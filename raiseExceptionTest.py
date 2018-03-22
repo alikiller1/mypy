@@ -8,7 +8,7 @@ def mye(level):
 
 try:
     mye(0)
-except 'Invalid level!':
+except:
     print 1
 else:
     print 2
